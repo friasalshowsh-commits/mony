@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS TRADING AI",
+  "description": "Live AI multi-agent crypto market research, strategy testing, paper trading, risk management, and trading operations platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
